@@ -1,0 +1,26 @@
+D:\Bureau\Cours\Cours Vallade\morpion\bin\Debug\netcoreapp3.1\morpion.exe
+D:\Bureau\Cours\Cours Vallade\morpion\bin\Debug\netcoreapp3.1\morpion.deps.json
+D:\Bureau\Cours\Cours Vallade\morpion\bin\Debug\netcoreapp3.1\morpion.runtimeconfig.json
+D:\Bureau\Cours\Cours Vallade\morpion\bin\Debug\netcoreapp3.1\morpion.runtimeconfig.dev.json
+D:\Bureau\Cours\Cours Vallade\morpion\bin\Debug\netcoreapp3.1\morpion.dll
+D:\Bureau\Cours\Cours Vallade\morpion\bin\Debug\netcoreapp3.1\morpion.pdb
+D:\Bureau\Cours\Cours Vallade\morpion\obj\Debug\netcoreapp3.1\morpion.csprojAssemblyReference.cache
+D:\Bureau\Cours\Cours Vallade\morpion\obj\Debug\netcoreapp3.1\morpion.AssemblyInfoInputs.cache
+D:\Bureau\Cours\Cours Vallade\morpion\obj\Debug\netcoreapp3.1\morpion.AssemblyInfo.cs
+D:\Bureau\Cours\Cours Vallade\morpion\obj\Debug\netcoreapp3.1\morpion.csproj.CoreCompileInputs.cache
+D:\Bureau\Cours\Cours Vallade\morpion\obj\Debug\netcoreapp3.1\morpion.dll
+D:\Bureau\Cours\Cours Vallade\morpion\obj\Debug\netcoreapp3.1\morpion.pdb
+D:\Bureau\Cours\Cours Vallade\morpion\obj\Debug\netcoreapp3.1\morpion.genruntimeconfig.cache
+D:\Bureau\Cours\BTS SIO SLAM\Cours Vallade\morpion\bin\Debug\netcoreapp3.1\morpion.exe
+D:\Bureau\Cours\BTS SIO SLAM\Cours Vallade\morpion\bin\Debug\netcoreapp3.1\morpion.deps.json
+D:\Bureau\Cours\BTS SIO SLAM\Cours Vallade\morpion\bin\Debug\netcoreapp3.1\morpion.runtimeconfig.json
+D:\Bureau\Cours\BTS SIO SLAM\Cours Vallade\morpion\bin\Debug\netcoreapp3.1\morpion.runtimeconfig.dev.json
+D:\Bureau\Cours\BTS SIO SLAM\Cours Vallade\morpion\bin\Debug\netcoreapp3.1\morpion.dll
+D:\Bureau\Cours\BTS SIO SLAM\Cours Vallade\morpion\bin\Debug\netcoreapp3.1\morpion.pdb
+D:\Bureau\Cours\BTS SIO SLAM\Cours Vallade\morpion\obj\Debug\netcoreapp3.1\morpion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bureau\Cours\BTS SIO SLAM\Cours Vallade\morpion\obj\Debug\netcoreapp3.1\morpion.AssemblyInfoInputs.cache
+D:\Bureau\Cours\BTS SIO SLAM\Cours Vallade\morpion\obj\Debug\netcoreapp3.1\morpion.AssemblyInfo.cs
+D:\Bureau\Cours\BTS SIO SLAM\Cours Vallade\morpion\obj\Debug\netcoreapp3.1\morpion.csproj.CoreCompileInputs.cache
+D:\Bureau\Cours\BTS SIO SLAM\Cours Vallade\morpion\obj\Debug\netcoreapp3.1\morpion.dll
+D:\Bureau\Cours\BTS SIO SLAM\Cours Vallade\morpion\obj\Debug\netcoreapp3.1\morpion.pdb
+D:\Bureau\Cours\BTS SIO SLAM\Cours Vallade\morpion\obj\Debug\netcoreapp3.1\morpion.genruntimeconfig.cache
